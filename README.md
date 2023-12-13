@@ -1,2 +1,2 @@
-# Artificial Intelligence related codes, application and projects
+# Artificial Intelligence related codes, application and projects.
  
